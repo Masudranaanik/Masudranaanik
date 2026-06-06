@@ -3,10 +3,18 @@
 </div>
 
 <div align="center">
-  <h3>Assistant IT Officer @ DIPTI | Network Administrator & Systems Support</h3>
-  <p>
-    <em>A dedicated IT professional with strong expertise in configuring, managing, and troubleshooting enterprise network systems. I thrive on architecting reliable infrastructures, ensuring seamless connectivity, and combining networking principles with programming solutions to solve real-world problems.</em>
-  </p>
+  <h2>Assistant IT Officer @ DIPTI | Network Administrator & Systems Support</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=1BA0D7&center=true&vCenter=true&width=600&lines=Network+Administrator;Systems+Support+Expert;Python+Developer" alt="Typing SVG" />
+  <br>
+  <table>
+    <tr>
+      <td>
+        <p align="center" style="font-size:16px;">
+          <em>"A dedicated IT professional with strong expertise in configuring, managing, and troubleshooting enterprise network systems. I thrive on architecting reliable infrastructures, ensuring seamless connectivity, and combining networking principles with programming solutions to solve real-world problems."</em>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -32,7 +40,7 @@
 
 ### 🏆 Certifications & Specializations
 
-*   🥇 **MikroTik Configuration & Management** 
+*   🥇 **MikroTik Configuration & Management**
 *   🥇 **OLT (Optical Line Terminal) Infrastructure Specialist**
 *   🥇 **Cisco Networking Fundamentals (Routing & Switching)**
 
@@ -89,7 +97,7 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <!-- Replace 'YOUR_GITHUB_USERNAME' with your actual username -->
+  <!-- Replace 'YOUR_GITHUB_USERNAME' with your actual username below -->
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=1BA0D7&icon_color=1BA0D7&text_color=ffffff" alt="GitHub Stats" />
   </a>
