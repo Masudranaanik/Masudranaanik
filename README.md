@@ -1,13 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MD.%20MASUD%20RANA%20ANIK&fontSize=50&fontAlignY=35&desc=IT%20Expert%20%7C%20Network%20Infrastructure%20Engineer&descAlignY=60&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=005571&height=200&section=header&text=MD.%20MASUD%20RANA%20ANIK&fontSize=45&fontAlignY=35&desc=IT%20Expert%20%7C%20Network%20Infrastructure%20Engineer&descAlignY=60&descAlign=50" alt="Header Banner" />
 </div>
 
-<br/>
-
 <div align="center">
-  <h3>Assistant IT Officer | Network & Systems Architect |Tech Enthusiast</h3>
+  <h3>Assistant IT Officer @ DIPTI | Network Administrator & Systems Support</h3>
   <p>
-    <em>A dedicated IT professional with strong expertise in configuring, managing, and troubleshooting complex network systems. I thrive on architecting reliable infrastructures and combining networking principles with programming solutions to solve real-world problems.</em>
+    <em>A dedicated IT professional with strong expertise in configuring, managing, and troubleshooting enterprise network systems. I thrive on architecting reliable infrastructures, ensuring seamless connectivity, and combining networking principles with programming solutions to solve real-world problems.</em>
   </p>
 </div>
 
@@ -15,28 +13,47 @@
 
 ### 👨‍💻 Professional Summary
 
-- 🔭 **Current Role:** Assistant IT Officer at DIPTI, ensuring seamless network operations and IT infrastructure management.
+- 🔭 **Current Role:** Assistant IT Officer at Daffodil International Professional Training Institute (DIPTI).
 - 🎓 **Education:** Pursuing B.Sc. in Computer Science and Engineering (CSE); Diploma in Computer Science and Technology.
-- ⚙️ **Core Competencies:** Network Administration, Routing & Switching, Hardware Troubleshooting, and System Administration.
-- 💡 **Passionate About:** Designing secure network topologies (Cisco/MikroTik), Automation, and Web Technologies.
+- ⚙️ **Core Competencies:** Enterprise Network Administration, Routing & Switching, Hardware Troubleshooting, and IT Operations.
+- 🌱 **Currently Exploring:** Advanced Network Security, Cloud Infrastructure, and Python Automation.
+
+---
+
+### 💼 Career Snapshot & Experience
+
+*   **Assistant IT Officer** | *DIPTI* (Present)
+    *   Managing daily IT operations, network troubleshooting, and ensuring optimal infrastructure performance.
+    *   Handling MikroTik routers, OLT configurations, and bandwidth management.
+*   **IT Industrial Attachment** | *DIPTI* (Sep 2025 - Nov 2025)
+    *   Gained hands-on experience in practical IT support, hardware maintenance, and network deployment.
+
+---
+
+### 🏆 Certifications & Specializations
+
+*   🥇 **MikroTik Configuration & Management** 
+*   🥇 **OLT (Optical Line Terminal) Infrastructure Specialist**
+*   🥇 **Cisco Networking Fundamentals (Routing & Switching)**
 
 ---
 
 ### 🛠️ Technical Arsenal
 
 <details open>
-  <summary><b>🌐 Networking & Systems Infrastructure</b></summary>
+  <summary><b>🌐 Networking, Systems & OS</b></summary>
   <br>
   <div align="left">
     <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
     <img src="https://img.shields.io/badge/MikroTik-2B3137?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
-    <img src="https://img.shields.io/badge/Network_Security-005571?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="Network Security" />
-    <img src="https://img.shields.io/badge/OLT_Configuration-007ACC?style=for-the-badge&logo=broadcom&logoColor=white" alt="OLT" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
+    <img src="https://img.shields.io/badge/Ubiquiti-005571?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="Network Security" />
   </div>
   <ul>
-    <li>Inter-VLAN Routing & Access Control Lists (ACL)</li>
-    <li>Subnetting, IP Addressing & DHCP Management</li>
-    <li>Bandwidth Management & Firewall Configuration</li>
+    <li>Inter-VLAN Routing, Access Control Lists (ACL) & Subnetting</li>
+    <li>OLT Configuration, Fiber Network Deployment & ISP Operations</li>
+    <li>Windows Server Administration, PC Hardware & IT Support</li>
   </ul>
 </details>
 
@@ -72,23 +89,27 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <!-- NOTE: Replace 'YOUR_GITHUB_USERNAME' with your actual username -->
-  <a href="https://github.com/Masudranaanik">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&hide_border=true&title_color=1BA0D7" alt="GitHub Stats" />
-  </a>
+  <!-- Replace 'YOUR_GITHUB_USERNAME' with your actual username -->
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nord&hide_border=true&title_color=1BA0D7" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=1BA0D7&icon_color=1BA0D7&text_color=ffffff" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Masudranaanik">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&title_color=1BA0D7&ring=1BA0D7&currStreakNum=ffffff" alt="GitHub Streak" />
   </a>
 </div>
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let's Connect & Collaborate
 
 <div align="center">
-  <!-- NOTE: Replace '#' with your actual LinkedIn and Portfolio URLs -->
+  <p><i>Always open to discussing network architecture, IT support solutions, or exciting tech opportunities!</i></p>
+  <!-- Replace '#' with your actual URLs -->
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
