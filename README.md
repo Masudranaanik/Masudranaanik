@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <h3>Assistant IT Officer | Network & Systems Architect | IT expart |Tech Enthusiast</h3>
+  <h3>Assistant IT Officer | Network & Systems Architect |Tech Enthusiast</h3>
   <p>
     <em>A dedicated IT professional with strong expertise in configuring, managing, and troubleshooting complex network systems. I thrive on architecting reliable infrastructures and combining networking principles with programming solutions to solve real-world problems.</em>
   </p>
