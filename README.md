@@ -4,13 +4,13 @@
 
 <div align="center">
   <h2>Assistant IT Officer @ DIPTI | Network Administrator & Systems Support</h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=1BA0D7&center=true&vCenter=true&width=600&lines=Network+Administrator;Systems+Support+Expert;Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=1BA0D7&center=true&vCenter=true&width=600&lines=NSDA+Govt.+Certified+IT+Support;Network+Administrator;Systems+Support+Expert;Python+Developer" alt="Typing SVG" />
   <br>
   <table>
     <tr>
       <td>
         <p align="center" style="font-size:16px;">
-          <em>"A dedicated IT professional with strong expertise in configuring, managing, and troubleshooting enterprise network systems. I thrive on architecting reliable infrastructures, ensuring seamless connectivity, and combining networking principles with programming solutions to solve real-world problems."</em>
+          <em>"As an NSDA Govt. Certified IT Support (Level 3) professional, I have strong expertise in configuring, managing, and troubleshooting enterprise network systems. I thrive on architecting reliable infrastructures, ensuring seamless connectivity, and combining networking principles with programming solutions to solve real-world problems."</em>
         </p>
       </td>
     </tr>
@@ -22,15 +22,15 @@
 ### 👨‍💻 Professional Summary
 
 - 🔭 **Current Role:** Assistant IT Officer at Daffodil International Professional Training Institute (DIPTI).
+- 📜 **Govt. Certification:** NSDA Certified IT Support (Level 3) Professional.
 - 🎓 **Education:** Pursuing B.Sc. in Computer Science and Engineering (CSE); Diploma in Computer Science and Technology.
 - ⚙️ **Core Competencies:** Enterprise Network Administration, Routing & Switching, Hardware Troubleshooting, and IT Operations.
-- 🌱 **Currently Exploring:** Advanced Network Security, Cloud Infrastructure, and Python Automation.
 
 ---
 
 ### 💼 Career Snapshot & Experience
 
-*   **Assistant IT Officer** | *DIPTI* (Present)
+*   **Assistant IT Officer** | *Daffodil International Professional Training Institute (DIPTI)* (Present)
     *   Managing daily IT operations, network troubleshooting, and ensuring optimal infrastructure performance.
     *   Handling MikroTik routers, OLT configurations, and bandwidth management.
 *   **IT Industrial Attachment** | *DIPTI* (Sep 2025 - Nov 2025)
@@ -38,11 +38,14 @@
 
 ---
 
-### 🏆 Certifications & Specializations
+### 🏆 Certifications & Professional Training
 
-*   🥇 **MikroTik Configuration & Management**
-*   🥇 **OLT (Optical Line Terminal) Infrastructure Specialist**
-*   🥇 **Cisco Networking Fundamentals (Routing & Switching)**
+*   🎖️ **IT Support (Level 3) - Government Certified** 
+    * *Authority: National Skills Development Authority (NSDA), Bangladesh*
+*   🎖️ **MTCNA (MikroTik Certified Network Associate) & OLT Configuration**
+    * *Institute: 7 Eye Technology*
+*   🎖️ **Professional IT Support & Networking Course**
+    * *Institute: Daffodil International Professional Training Institute (DIPTI)*
 
 ---
 
@@ -101,7 +104,7 @@
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=1BA0D7&icon_color=1BA0D7&text_color=ffffff" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/Masudranaanik">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&title_color=1BA0D7&ring=1BA0D7&currStreakNum=ffffff" alt="GitHub Streak" />
   </a>
 </div>
